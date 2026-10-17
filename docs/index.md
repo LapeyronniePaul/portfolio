@@ -18,6 +18,7 @@ Je suis passionné par les **systèmes embarqués, la robotique et la programmat
 
 [Télécharger mon CV]({{ '/assets/CV.pdf' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Voir mes projets]({{ '/projets/' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Mon journal de bord]({{ '/journal/' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Contact
 
