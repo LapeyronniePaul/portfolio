@@ -1,0 +1,23 @@
+# ====== À MODIFIER ======
+# Remplace TON-PSEUDO par ton pseudo GitHub.
+# Si ton repo ne s'appelle pas "portfolio", remplace aussi "/portfolio" dans baseurl.
+title: Mon portfolio
+description: Mes projets de robotique, d'électronique embarquée et de programmation
+url: "https://TON-PSEUDO.github.io"
+baseurl: "/portfolio"
+# ========================
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+heading_anchors: true
+aux_links:
+  "Mon GitHub":
+    - "https://github.com/TON-PSEUDO"
+footer_content: "Mon portfolio"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
