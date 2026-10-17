@@ -26,11 +26,11 @@ Clique sur l'image d'un projet pour accéder à sa présentation.
 
 ### Les idées sont potentiellement de futurs projets que je pourrais réaliser.
 
-| Titres de l'idée | résumé de l'idée |
-|---------|--------|
-| guants résistants | ce sont des guants qui sont en perpétuelle opposition à ton mouvement, ils permettent notamment d'entraîner sa force de préhension |
-| dirigeable | Petit aéronef radiocommandé qui est à l'équilibre grâce à de l'hélium. |
-| bras robotique | Un bras robotique avec trois axes qui serait plug and play sur le projet Dobo. |
-| robot aspirateur | Transformer le projet Dobo en robot aspirateur pour chez moi en ajoutant simplement quelques composants. |
-| sous-marin | Robot aquatique télécommandé |
-| antisquelette | Le principe inverse d'un exosquelette : au lieu d'assister une personne dans ses mouvements, il vient contrer ou résister au mouvement, avec pour objectif que cette résistance soit réglable pour imiter et correspondre à la gravité terrestre pour les spationautes de l'ISS, par exemple. Cela peut aussi servir à entraîner de manière passive un sportif |
+| Titres de l'idée | Résumé de l'idée |
+| :--- | :--- |
+| **Gants résistants** | Ce sont des gants qui sont en perpétuelle opposition à ton mouvement, ils permettent notamment d'entraîner sa force de préhension. |
+| **Dirigeable** | Petit aéronef radiocommandé qui est à l'équilibre grâce à de l'hélium. |
+| **Bras robotique** | Un bras robotique avec trois axes qui serait plug and play sur le projet Dobo. |
+| **Robot aspirateur** | Transformer le projet Dobo en robot aspirateur pour chez moi en ajoutant simplement quelques composants. |
+| **Sous-marin** | Robot aquatique télécommandé. |
+| **Antisquelette** | Le principe inverse d'un exosquelette : au lieu d'assister une personne dans ses mouvements, il vient contrer ou résister au mouvement, avec pour objectif que cette résistance soit réglable pour imiter et correspondre à la gravité terrestre pour les spationautes de l'ISS, par exemple. Cela peut aussi servir à entraîner de manière passive un sportif. |
