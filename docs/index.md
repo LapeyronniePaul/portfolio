@@ -10,6 +10,7 @@ nav_order: 1
 [Voir mes projets]({{ '/projets/' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
 [Mon journal de bord]({{ '/journal/' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+
 # À propos
 
 Étudiant en deuxième année du cycle pré-ingénieur à **UniLaSalle Amiens**, je suis co-directeur de l'association de robotique **Unimakers Amiens**, qui participe à la **Coupe de France de robotique**. Notre objectif : transmettre nos compétences et rendre la robotique plus accessible.
