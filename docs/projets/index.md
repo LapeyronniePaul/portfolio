@@ -23,7 +23,9 @@ Clique sur l'image d'un projet pour accéder à sa présentation.
 </div>
 
 # Mes idées de projets
+
 ### Les idées sont potentiellement de futurs projets que je pourrais réaliser.
+
 | Titres de l'idée | résumé de l'idée |
 |---------|--------|
 | guants résistants | ce sont des guants qui sont en perpétuelle opposition à ton mouvement, ils permettent notamment d'entraîner sa force de préhension |
