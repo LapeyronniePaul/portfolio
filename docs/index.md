@@ -6,7 +6,7 @@ nav_order: 1
 # Lapeyronnie Paul
 {: .no_toc }
 
-[Télécharger mon CV]({{ '/assets/CV-LAPEYRONNIE-Paul.pdf' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Télécharger mon CV]({{ '\assets\images\CV-LAPEYRONNIE-Paul.pdf' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Voir mes projets]({{ '/projets/' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
 [Mon journal de bord]({{ '/journal/' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
