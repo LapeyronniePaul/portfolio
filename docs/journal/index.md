@@ -1,6 +1,7 @@
 ---
-title: journal
-nav_order: 2
+title: Journal
+layout: default
+nav_order: 3
 has_children: true
 permalink: /journal/
 ---
