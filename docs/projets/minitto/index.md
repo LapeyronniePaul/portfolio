@@ -9,9 +9,7 @@ nav_order: 1
  
 > Robot de combat sumo à base d'ESP32, piloté en Bluetooth depuis un smartphone, capable de marcher sur deux jambes s'accrocher grâce à des ventouses.
 
-<img class="illustration" src="{{ '/assets/images/minitto.svg' | relative_url }}" alt="Minitto">
-
-<!-- À MODIFIER : remplace l'image minitto.svg par une photo de ton robot (voir README) -->
+<img class="illustration" src="{{ '/assets/images/Minitto.png' | relative_url }}" alt="Minitto">
 
 ## Présentation
 
@@ -33,7 +31,9 @@ Il se déplace grâce à **4 servomoteurs** (2 jambes et 2 pieds) et utilise **d
 
 j'ai penser ce robot pour qu'il soit fort au combat de sumo, au tire a la corde et en évitement d'obstacle.
 
-Pour qu'il soit fort au **combat de sumo**, j'ai dans un premier temps décider de lui ajouter des **fulguro poing**. cette idée m'est venu en penssant a un robot de combat : goldorak. J'ai donc dévelloper cette idée mais quand j'ai regarder les idée de mes adversaires, j'ai compris que je devais contrer l'idée de tous mes adversaires les plus dangereux en les empechant de me soulever avec un bras pelteuse, la meilleur idée qui m'est venu a donc été de me fixer au sol avec des **pompes a aires** et des **ventouses**.
+Pour qu'il soit fort au **combat de sumo**, j'ai dans un premier temps décider de lui ajouter des **fulguro poing**. 
+### ![alt text](fulguro_poing.png)
+cette idée m'est venu en penssant a un robot de combat : goldorak. J'ai donc dévelloper cette idée mais quand j'ai regarder les idée de mes adversaires, j'ai compris que je devais contrer l'idée de tous mes adversaires les plus dangereux en les empechant de me soulever avec un bras pelteuse, la meilleur idée qui m'est venu a donc été de me fixer au sol avec des **pompes a aires** et des **ventouses**.
 
 pour le **tire a la corde**, les **ventouses** empecherais que mes adversaires puissent me déplacer et il me sufirait donc de seulement **reculer en prenant soin de toujours garder un pied ventouser** et en reculant petit a petit.
 
