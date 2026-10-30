@@ -82,12 +82,15 @@ ce problème provenais de la construction de la carte, le buzzer était conecter
 
 - quand j'ai du réaliser les bras fulguro poing, comme j'avais intediction de perdre des élément du robot, il a falut que j'ajoute un élément bloquant dans le mouvement sec du poing, or en réalisant des testes j'ai remarquer que quand je donnais une disaine de coups de poings, l'élément imprimer en plastique se cassait.j'ai donc réfléchis pour ajouter une sorte d'airbag pour amortir le choque et le diffuser avant qu'il n'arrive dans la partie plastique.
 
-
+![système d'airbag](vue_de_coupe_du_poing_1.png)
+système d'airbag
+![système de libération du poing](vue_en_coupe_du_poing_2.png)
+système de libération du poing
 
 ## État d'avancement
 
 **Statut :** terminé
-
+**vainceur des ottolympiades**
 ## Fichiers
 
 *À compléter : mets tes fichiers (code, schémas, photos, PDF) dans le dossier `docs/projets/minitto/` puis ajoute un lien ici, par exemple :*
