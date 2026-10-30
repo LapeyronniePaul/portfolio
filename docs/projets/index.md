@@ -10,17 +10,22 @@ permalink: /projets/
 Clique sur l'image d'un projet pour accéder à sa présentation.
 
 <div class="cartes">
-
+  <a class="carte" href="{{ '/projets/DoBo/' | relative_url }}">
+    <img src="{{ '/assets/images/image_provisoire_projet.svg' | relative_url }}" alt="DoBo">
+    <span class="carte-titre">DoBo</span>
+    <span class="carte-resume">Robot roulant a 2 roue avec une grande modularité ex : ajout bras méca, ajout ventilateur ...</span>
+  </a>
   <a class="carte" href="{{ '/projets/minitto/' | relative_url }}">
     <img src="{{ '/assets/images/Minitto.png' | relative_url }}" alt="Minitto">
     <span class="carte-titre">Minitto</span>
     <span class="carte-resume">Robot marcheur ESP32 piloté en Bluetooth</span>
   </a>
   <a class="carte" href="{{ '/projets/DoBo/' | relative_url }}">
-    <img src="{{ '/assets/images/image_provisoire_projet.svg' | relative_url }}" alt="DoBo">
-    <span class="carte-titre">DoBo</span>
-    <span class="carte-resume">Robot roulant a 2 roue avec une grande modularité ex : ajout bras méca, ajout ventilateur ...</span>
+    <img src="{{ '/assets/images/image_provisoire_projet.svg' | relative_url }}" alt="Pion Dame">
+    <span class="carte-titre">Pion Dame</span>
+    <span class="carte-resume">pièce d'écheque mécanique qui se dévellope seul en dame quand il est placer sur du métal</span>
   </a>
+ 
   <!-- POUR AJOUTER UN PROJET : copie le bloc <a class="carte"> ... </a> ci-dessus,
        colle-le ici, puis change le lien, l'image, le titre et le résumé. -->
 

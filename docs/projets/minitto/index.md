@@ -69,7 +69,7 @@ détecteur a ultrason
 
 - Firmware en C++ (ArduinoIDE) pour ESP32
 - Application de contrôle : RemoteXY, connexion BLE
-- Dépôt du code : *à compléter (lien GitHub ou fichier ci-dessous)*
+- Dépôt du code : en fin de page
 
 ## Difficultés rencontrées
 
