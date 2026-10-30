@@ -12,7 +12,7 @@ Clique sur l'image d'un projet pour accéder à sa présentation.
 <div class="cartes">
 
   <a class="carte" href="{{ '/projets/minitto/' | relative_url }}">
-    <img src="{{ '/assets/images/minitto.svg' | relative_url }}" alt="Minitto">
+    <img src="{{ '/assets/images/Minitto.png' | relative_url }}" alt="Minitto">
     <span class="carte-titre">Minitto</span>
     <span class="carte-resume">Robot marcheur ESP32 piloté en Bluetooth</span>
   </a>

@@ -33,11 +33,15 @@ j'ai penser ce robot pour qu'il soit fort au combat de sumo, au tire a la corde 
 
 Pour qu'il soit fort au **combat de sumo**, j'ai dans un premier temps décider de lui ajouter des **fulguro poing**. 
 ### ![alt text](fulguro_poing.png)
-cette idée m'est venu en penssant a un robot de combat : goldorak. J'ai donc dévelloper cette idée mais quand j'ai regarder les idée de mes adversaires, j'ai compris que je devais contrer l'idée de tous mes adversaires les plus dangereux en les empechant de me soulever avec un bras pelteuse, la meilleur idée qui m'est venu a donc été de me fixer au sol avec des **pompes a aires** et des **ventouses**.
+cette idée m'est venu en penssant a un robot de combat : goldorak. J'ai donc dévelloper cette idée mais quand j'ai regarder les idée de mes adversaires, j'ai compris que je devais contrer l'idée de tous mes adversaires les plus dangereux en les empechant de me soulever avec un bras pelteuse, 
+
+la meilleur idée qui m'est venu a donc été de me fixer au sol avec des **pompes a aires** et des **ventouses**.
 
 pour le **tire a la corde**, les **ventouses** empecherais que mes adversaires puissent me déplacer et il me sufirait donc de seulement **reculer en prenant soin de toujours garder un pied ventouser** et en reculant petit a petit.
 
 pour l'évitement d'obstacle, j'ai ajouter un **détecteur a ultrason** me permetant de connaitre précisément l distance netre l'obstacle et le robot et donc me permetre de réagir plus rapidement en cas de danger de choque.
+### ![alt text](ultrason.png)
+détecteur a ultrason
 
 ## Fonctionnalités
 
@@ -75,6 +79,8 @@ ce problème provenais de la construction de la carte, le buzzer était conecter
 - le mouvement de marche avant, arrière, gauche, droite a été long et complexe a coder car il a falut faire beaucoup de test, a chaque modifications, j'ai du retester le code, corriger les erreurs, retester ... et cela jusqu'a temp que le robot ce déplace rapidement le plus droits possible et de manière constante.
 
 - J'ai eu du mal a coder l'évitement d'obstacle de manière automatique, car il falait etre capable de diférentier un obstacle d'un mur et ensuite choisir comment éviter l'obstacle de la manière la plus optimisé.
+
+- quand j'ai du réaliser les bras fulguro poing, comme j'avais intediction de perdre des élément du robot, il a falut que j'ajoute un élément bloquant dans le mouvement sec du poing, or en réalisant des testes j'ai remarquer que quand je donnais une disaine de coups de poings, l'élément imprimer en plastique se cassait.j'ai donc réfléchis pour ajouter une sorte d'airbag pour amortir le choque et le diffuser avant qu'il n'arrive dans la partie plastique.
 
 
 
