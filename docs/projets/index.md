@@ -16,7 +16,11 @@ Clique sur l'image d'un projet pour accéder à sa présentation.
     <span class="carte-titre">Minitto</span>
     <span class="carte-resume">Robot marcheur ESP32 piloté en Bluetooth</span>
   </a>
-
+  <a class="carte" href="{{ '/projets/DoBo/' | relative_url }}">
+    <img src="{{ '/assets/images/image_provisoire_projet.svg' | relative_url }}" alt="DoBo">
+    <span class="carte-titre">DoBo</span>
+    <span class="carte-resume">Robot roulant a 2 roue avec une grande modularité ex : ajout bras méca, ajout ventilateur ...</span>
+  </a>
   <!-- POUR AJOUTER UN PROJET : copie le bloc <a class="carte"> ... </a> ci-dessus,
        colle-le ici, puis change le lien, l'image, le titre et le résumé. -->
 
