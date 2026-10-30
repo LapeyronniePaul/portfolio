@@ -83,21 +83,30 @@ ce problème provenais de la construction de la carte, le buzzer était conecter
 - quand j'ai du réaliser les bras fulguro poing, comme j'avais intediction de perdre des élément du robot, il a falut que j'ajoute un élément bloquant dans le mouvement sec du poing, or en réalisant des testes j'ai remarquer que quand je donnais une disaine de coups de poings, l'élément imprimer en plastique se cassait.j'ai donc réfléchis pour ajouter une sorte d'airbag pour amortir le choque et le diffuser avant qu'il n'arrive dans la partie plastique.
 
 ![système d'airbag](vue_de_coupe_du_poing_1.png)
-système d'airbag
+système d'airbag (en rouge, il est imprimer en TPU)
 ![système de libération du poing](vue_en_coupe_du_poing_2.png)
-système de libération du poing
+système de libération du poing (en blanc)
 
 ## État d'avancement
 
-**Statut :** terminé
-**vainceur des ottolympiades**
+### **Statut :** terminé
+
+### **vainceur des ottolympiades**
+- 1er combat de sumo
+- 1er tire a la corde
+- 3e évitement d'obstacle
+- 15e course de vitesse
+
+### ![image de Minitto victorieux](image_minitti_victoire.png)
+image de Minitto victorieux
+
 ## Fichiers
 
-*À compléter : mets tes fichiers (code, schémas, photos, PDF) dans le dossier `docs/projets/minitto/` puis ajoute un lien ici, par exemple :*
+[Carte_éléctrique]({{ '/journal/' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-```
-[Code du firmware](minitto.ino)
-[Schéma de câblage](cablage.pdf)
-```
+[code_du_firmare]({{ '/journal/' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+[fichiers_d'impressions]({{ '/projets/minitto/' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+##
+[Revenir_en_arrière]({{ '/projets/' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
