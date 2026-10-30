@@ -35,5 +35,5 @@ Clique sur l'image d'un projet pour accéder à sa présentation.
 | **Sous-marin** | Robot aquatique télécommandé. |
 | **Antisquelette** | Le principe inverse d'un exosquelette : au lieu d'assister une personne dans ses mouvements, il vient contrer ou résister au mouvement, avec pour objectif que cette résistance soit réglable pour imiter et correspondre à la gravité terrestre pour les spationautes de l'ISS, par exemple. Cela peut aussi servir à entraîner de manière passive un sportif. |
 
-##
+## .
 [Revenir_en_arrière]({{ '/' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }

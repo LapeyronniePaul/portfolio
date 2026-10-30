@@ -108,5 +108,5 @@ image de Minitto victorieux
 
 [fichiers_d'impressions]({{ '/projets/minitto/' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-##
+## .
 [Revenir_en_arrière]({{ '/projets/' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
