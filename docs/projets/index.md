@@ -20,7 +20,7 @@ Clique sur l'image d'un projet pour accéder à sa présentation.
     <span class="carte-titre">Minitto</span>
     <span class="carte-resume">Robot marcheur ESP32 piloté en Bluetooth</span>
   </a>
-  <a class="carte" href="{{ '/projets/DoBo/' | relative_url }}">
+  <a class="carte" href="{{ '/projets/Pion Dame/' | relative_url }}">
     <img src="{{ '/assets/images/image_provisoire_projet.svg' | relative_url }}" alt="Pion Dame">
     <span class="carte-titre">Pion Dame</span>
     <span class="carte-resume">pièce d'écheque mécanique qui se dévellope seul en dame quand il est placer sur du métal</span>
