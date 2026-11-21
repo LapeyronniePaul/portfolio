@@ -46,7 +46,7 @@ pour lui donner un air « de combattant ».
 
 Minitto est un petit robot qui **marche sur deux jambes**, un peu comme un manchot. Ses deux pieds sont des **ventouses** : des mini-pompes à air aspirent l’air et le collent au sol. Pendant qu’un pied avance, l’autre reste fixé. On ne peut donc pas le pousser, le soulever ou le faire tomber facilement.
 
-Pour se battre, il possède deux **bras à ressort** qui donnent un **coup de poing sec** à distance. On le pilote en Bluetooth depuis un téléphone.
+Pour se battre, il possède deux **bras à élastique** qui donnent un **coup de poing sec** à distance. On le pilote en Bluetooth depuis un téléphone.
 
 <!--
 📷 PHOTO 2 (en action) :
@@ -95,7 +95,7 @@ fais plutôt une capture OnShape de la version d’origine et de la tienne, côt
 
 Face aux autres équipes, j’ai regardé leurs idées : beaucoup préparaient des **bras pelleteuses** pour soulever l’adversaire et le renverser. La parade la plus simple était de **ne pas pouvoir être soulevé**. D’où les ventouses.
 
-Elles ont aussi servi pour le **tir à la corde** : Minitto ne peut pas être tiré, il lui suffit de **reculer pas à pas** en gardant toujours une ventouse fixée. Au passage, il peut aussi marcher sur les murs et au plafond.
+Elles ont aussi servi pour le **tir à la corde** : Minitto ne peut pas être tiré, il lui suffit de **reculer pas à pas** en gardant toujours une ventouse fixée. Au passage, il peut aussi marcher au plafond.
 
 ### 2. Un coup sec
 
